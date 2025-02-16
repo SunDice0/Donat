@@ -8,7 +8,9 @@
 </head>
 <style>
 /* Стилі пиши тут :) */
-
+body(
+    font-family:Sans-serif;
+)
 </style>
 <body>
     <h1>Світ пончиків</h1>
